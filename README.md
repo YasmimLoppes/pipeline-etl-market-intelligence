@@ -25,5 +25,5 @@ O objetivo principal é simular um fluxo real de **Engenharia de Dados**: extrai
 Este projeto elimina a necessidade de coleta manual de dados, garantindo que a equipe de inteligência de mercado tenha acesso a dados **confiáveis, limpos e centralizados**, permitindo uma análise mais ágil das tendências do setor.
 
 ---
-**Desenvolvido por Otávio** | Estudante de Análise e Desenvolvimento de Sistemas (3º Semestre)
+**Desenvolvido por Yasmin Lopes** | Estudante de Análise e Desenvolvimento de Sistemas (3º Semestre)
 
