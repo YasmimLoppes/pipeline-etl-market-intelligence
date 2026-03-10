@@ -1,6 +1,6 @@
 # pipeline-etl-market-intelligence
 
-📊 Dashboard interativo em Streamlit e Plotly para visualização de dados de mercado e indicadores em tempo real.
+⚙️ Fluxo de integração de dados de inteligência de mercado, explorando arquitetura de dados e automação de APIs.
 
 # 🚀 Pipeline de ETL: Inteligência de Mercado (Data Intelligence)
 
