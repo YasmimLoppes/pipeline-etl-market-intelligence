@@ -1,5 +1,6 @@
 # pipeline-etl-market-intelligence
-Pipeline de ETL em Python para extração, limpeza e carga de dados de mercado em banco de dados SQL.
+
+📊 Dashboard interativo em Streamlit e Plotly para visualização de dados de mercado e indicadores em tempo real.
 
 # 🚀 Pipeline de ETL: Inteligência de Mercado (Data Intelligence)
 
